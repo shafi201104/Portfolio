@@ -1,0 +1,78 @@
+body {
+	background-color: #f0f0f5;
+	color: #000000;
+	font: 17px Times, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+#main-header {
+	background-color: #139bda;
+	color: #fff;
+	text-align: center;
+}
+#links {
+	background-color: #e0e0eb;
+}
+#links_a {
+	color: #808080;
+	padding-right: 17px;
+}
+#links li {
+	display: inline;
+
+}
+#view-port{
+	background-image: url('ban2.jpg');
+	background-position:center;
+	color: #fff;
+	text-align: center;
+}
+#view-port2{
+	background-image: url('programming.jpg');
+	background-position:center;
+	text-align: center;
+}
+#message-box {
+	float:left;
+	width: 60%;
+	box-sizing: border-box;
+}
+#sidewall-right {
+	float:right;
+	width:40%;
+	color: black;
+	box-sizing: border-box;;
+}
+
+#sidewall-left {
+	float:left;
+	width:40%;
+	color: black;
+	box-sizing: border-box;;
+}
+
+#main-footer {
+	text-align: center;
+	padding: 15px;
+	margin-top: 50px;
+}
+.rounded{
+	border-radius: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
